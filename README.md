@@ -90,11 +90,17 @@ SendGrid is a cloud-based email service that provides high deliverability rates,
 
 Mailgun is a cloud-based email service that offers powerful APIs for sending, receiving, and tracking email. It provides detailed analytics and reporting, supports multiple languages and frameworks, and integrates with other popular web services.
 
-| Pros                                                     | Cons                                          |
-| -------------------------------------------------------- | --------------------------------------------- | -------------------------------- | ------------------------- |
-| Powerful APIs for sending, receiving, and tracking email | Limited free plan offering                    | Detailed analytics and reporting | Can be expensive at scale |
-| Supports multiple languages and frameworks               | Limited customer support options              |
-| Integrates with other popular web services               | No transactional email support out-of-the-box |
+| Pros                                                     | Cons                                                         |
+| -------------------------------------------------------- | ------------------------------------------------------------ |
+| Powerful APIs for sending, receiving, and tracking email | Limited free plan offering                                   |
+| Integrates with other popular web services               | Detailed analytics and repotingcan become expensive at scale |
+| Supports multiple languages and frameworks               | No transactional email support out-of-the-box                |
+|                                                          |                                                              |
+
+                  | Detailed analytics and reporting  Can be expensive at scale |
+             | Limited customer support options|
+             | No transactional email support out-of-the-box |
 
 Conclusion
+
 Choosing the right platform for your authentication, database, and email service needs depends on multiple factors, including cost, level of technical expertise required, scalability, and customization options. This comparison table aims to provide a simple overview of the pros and cons of each platform, but before making a decision, it is recommended to thoroughly research each option and evaluate which one meets your specific needs.
