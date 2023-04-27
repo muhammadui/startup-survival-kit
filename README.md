@@ -1,6 +1,6 @@
 # Startup Survival Kit
 
-The Startup Survival Kit is a handpicked selection of powerful yet affordable tools and platforms for building successful StartUps and side projects without breaking the bank.
+The 🚀 Startup Survival Kit is a handpicked selection of powerful yet affordable tools and platforms for building successful StartUps and side projects without breaking the Bank 🏦.
 It includes options for authentication, database, and email services, as well as other valuable resources such as marketing automation tools and customer support platforms.
 
 ## Authentication Platforms
@@ -26,6 +26,7 @@ Auth0 is a cloud-based identity management platform that provides flexible authe
 | Robust security features                   | Integration and configuration requires expertise |
 | Supports social logins                     | Limited free plan offering                       |
 | Extensive documentation                    | More complex setup process than some competitors |
+
 
 ### Stormpath
 
@@ -97,10 +98,6 @@ Mailgun is a cloud-based email service that offers powerful APIs for sending, re
 | Supports multiple languages and frameworks               | No transactional email support out-of-the-box                |
 |                                                          |                                                              |
 
-                  | Detailed analytics and reporting  Can be expensive at scale |
-             | Limited customer support options|
-             | No transactional email support out-of-the-box |
-
-Conclusion
+#### Conclusion
 
 Choosing the right platform for your authentication, database, and email service needs depends on multiple factors, including cost, level of technical expertise required, scalability, and customization options. This comparison table aims to provide a simple overview of the pros and cons of each platform, but before making a decision, it is recommended to thoroughly research each option and evaluate which one meets your specific needs.
