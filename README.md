@@ -27,7 +27,6 @@ Auth0 is a cloud-based identity management platform that provides flexible authe
 | Supports social logins                     | Limited free plan offering                       |
 | Extensive documentation                    | More complex setup process than some competitors |
 
-
 ### Stormpath
 
 Stormpath is an API-driven identity management platform that provides features such as authentication, authorization, and user management. It offers customizable user interfaces, supports multiple authentication methods, and provides detailed analytics and reporting.
@@ -96,8 +95,31 @@ Mailgun is a cloud-based email service that offers powerful APIs for sending, re
 | Powerful APIs for sending, receiving, and tracking email | Limited free plan offering                                   |
 | Integrates with other popular web services               | Detailed analytics and repotingcan become expensive at scale |
 | Supports multiple languages and frameworks               | No transactional email support out-of-the-box                |
-|                                                          |                                                              |
+|                                                          |
+
+                                              |
+
+### Update Here
+
+- Databases
+  - PlanetScale
+  - Firebase Firestore
+  - SupaBase
+- Authentication
+  - Auth0
+  - Clerk
+  - Firebase Auth
+- Hosting
+
+  - Vercel
+  - Netlify
+  - Render
+  - Cyclic.sh
+
+- Email Services
+  - SendGrid
+  - MailGun
 
 #### Conclusion
 
-Choosing the right platform for your authentication, database, and email service needs depends on multiple factors, including cost, level of technical expertise required, scalability, and customization options. This comparison table aims to provide a simple overview of the pros and cons of each platform, but before making a decision, it is recommended to thoroughly research each option and evaluate which one meets your specific needs.
+Choosing the right platform for your authentication, database, hosting and email service needs depends on multiple factors, including cost, level of technical expertise required, scalability, and customization options. This comparison table aims to provide a simple overview of the pros and cons of each platform, but before making a decision, it is recommended to thoroughly research each option and evaluate which one meets your specific needs.
